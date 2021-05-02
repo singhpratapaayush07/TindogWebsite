@@ -1,5 +1,5 @@
 # TindogWebsite
-Front-end, responsive website tinder for dogs website.
+Front-end, responsive website. Website that acts as tinder for dogs.
 
 
 
